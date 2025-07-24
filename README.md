@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! 👋 I'm Avijit Mandal
 
-<!--
-**avijitmandal2004/avijitmandal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Data Engineer** from Durgapur, West Bengal, India 🇮🇳
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I work with data pipelines and analytics
+- 🌱 Currently learning cloud technologies and machine learning
+- 💼 Data Engineer passionate about turning data into insights
+- 📍 Based in Durgapur, West Bengal, India
+- 🎯 Goal: Building scalable data solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Languages:**
+- Python 🐍
+- SQL 🗃️
+- JavaScript 🟨
+
+**Tools & Technologies:**
+- Apache Spark ⚡
+- PostgreSQL 🐘
+- AWS ☁️
+- Docker 🐳
+- Git 🌿
+
+## My GitHub Stats
+![Avijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avijitmandal&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitmandal&layout=compact&theme=dark)
+
+## Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/avijitmandal)
+- 📧 Email: contacavijit.work@gmail.com
+
+---
+⭐ **Fun Fact:** Data is like a puzzle - I love putting the pieces together to see the bigger picture!
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
