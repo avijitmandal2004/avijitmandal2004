@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Data Engineer** from Durgapur, West Bengal
 ## My GitHub Stats
 ![Avijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avijitmandal&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitmandal&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitmandal&layout=compact&theme=dark&v=1)
 
 ## Connect with Me
 - 💼 [LinkedIn](https://linkedin.com/in/avijitmandal)
