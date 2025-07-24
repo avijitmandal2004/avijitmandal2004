@@ -11,28 +11,18 @@ Welcome to my GitHub profile! I'm a **Data Engineer** from Durgapur, West Bengal
 
 ## Tech Stack
 **Languages:**
-- Python 🐍
-- SQL 🗃️
-- JavaScript 🟨
+- Python 🐍  
+- SQL 🗃️  
+- JavaScript 🟨  
 
 **Tools & Technologies:**
-- Apache Spark ⚡
-- PostgreSQL 🐘
-- AWS ☁️
-- Docker 🐳
-- Git 🌿
+- Apache Spark ⚡  
+- PostgreSQL 🐘  
+- AWS ☁️  
+- Docker 🐳  
+- Git 🌿  
 
 ## My GitHub Stats
-![Avijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avijitmandal&show_icons=true&theme=dark)
+![Avijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avijitmandal&show_icons=true&theme=dark&cache_seconds=300)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitmandal&layout=compact&theme=dark&langs_count=5)
-
-
-## Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/avijitmandal)
-- 📧 Email: contacavijit.work@gmail.com
-
----
-⭐ **Fun Fact:** Data is like a puzzle - I love putting the pieces together to see the bigger picture!
-
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avijitmandal&theme=dark&hide_border=true)
